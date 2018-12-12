@@ -3,7 +3,7 @@
 
 import os, shutil
 
-os.chdir('C:\\Users\\a-singer\\Desktop\\test')
+os.chdir('C:\\Users\\edit\\Desktop\\test')
 folder = os.getcwd()
 base = 'test'
 filend = '.txt'
